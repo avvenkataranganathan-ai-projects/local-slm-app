@@ -1,7 +1,0 @@
-model,latency_sec,cpu_percent,memory_percent,output_length
-tinyllama,2.11,28.0,89.3,0
-tinyllama,2.08,20.3,89.3,0
-tinyllama,2.04,19.5,89.4,0
-phi,2.61,69.7,92.1,0
-phi,2.53,51.2,90.7,0
-phi,2.54,56.1,91.2,0
