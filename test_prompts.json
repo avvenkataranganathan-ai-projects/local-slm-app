@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "category": "logic",
+      "prompt": "If all roses are flowers and some flowers fade quickly, can we conclude that some roses fade quickly? Explain your reasoning."
+    },
+    {
+      "id": 2,
+      "category": "logic",
+      "prompt": "A train travels 60 km in 1 hour. How far will it travel in 3.5 hours at the same speed?"
+    },
+    {
+      "id": 3,
+      "category": "coding",
+      "prompt": "Write a Python function to check if a number is a prime number."
+    },
+    {
+      "id": 4,
+      "category": "coding",
+      "prompt": "Explain the time complexity of binary search and why it is efficient."
+    },
+    {
+      "id": 5,
+      "category": "summarization",
+      "prompt": "Summarize the following text in 3 sentences: Artificial intelligence is transforming industries by automating tasks, enhancing decision-making, and enabling new products. However, concerns around privacy, job displacement, and bias remain significant challenges."
+    },
+    {
+      "id": 6,
+      "category": "summarization",
+      "prompt": "Explain the concept of cloud computing in simple terms suitable for a 12-year-old."
+    },
+    {
+      "id": 7,
+      "category": "general_knowledge",
+      "prompt": "What are the primary causes of climate change?"
+    },
+    {
+      "id": 8,
+      "category": "general_knowledge",
+      "prompt": "Explain the difference between RAM and ROM in a computer."
+    },
+    {
+      "id": 9,
+      "category": "edge_case",
+      "prompt": "What happens if you divide a number by zero?"
+    },
+    {
+      "id": 10,
+      "category": "edge_case",
+      "prompt": "Is the statement 'This sentence is false' true or false? Explain."
+    }
+  ]
