@@ -1,1 +1,1 @@
-In this project we rigorously benchmark 3 models tinyllama,phi and gemma 2b here we first find tokens per second time to first token and total response latency which will be visible in our results. 
+In this project we rigorously benchmark 3 models tinyllama,phi and gemma 2b here we first find tokens per second , time to first token  and total response latency which will be visible in our results. 
